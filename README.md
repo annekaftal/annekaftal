@@ -14,3 +14,8 @@
 
 - How to reach me : <a href="mailto:anne.kaftal@gmail.com">anne.kaftal@gmail.com</a>
 
+## I’m currently learning
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+
