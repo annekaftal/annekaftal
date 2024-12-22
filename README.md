@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anne ☘️</h1>
+<h1 align="center">Hi, I'm Anne 🌱</h1>
 
 - I’m a former PhD researcher in Film Studies, enthusiastically transitioning into a career as a web developer.
 
@@ -14,7 +14,7 @@
 
 - How to reach me : <a href="mailto:anne.kaftal@gmail.com">anne.kaftal@gmail.com</a>
 
-## 🌱 I’m currently learning
+## I’m currently learning
 
 <h4>Front-end</h4>
 <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/></p>
