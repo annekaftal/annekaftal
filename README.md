@@ -6,6 +6,6 @@
   <li>My academic career has helped me cultivate strong analytical skills and a creative approach to problem-solving, as well as an ability to express myself clearly and thoughtfully.</li>
   <li>I’m currently training at <a href="https://adatechschool.fr/">Ada Tech School</a>, an inclusive programming school which focuses on collaborative, full-stack projects.</li>
   <li>I’m looking for <strong>an apprenticeship starting from February 2025</strong> to perfect my skills and become a better developer.</li>
-  <li>How to reach me : <a href="mailto:anne.kaftal@gmail.com">anne.kaftal@gmail.com</a></li>
   <li>Alongside coding, I’m passionate about reading feminist theory, watching comedies, and fostering stray cats and kittens.</li>
+  <li>How to reach me : <a href="mailto:anne.kaftal@gmail.com">anne.kaftal@gmail.com</a></li>
 </ul>
