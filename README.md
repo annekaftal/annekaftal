@@ -10,7 +10,7 @@
 
 - I’m looking for <strong>an apprenticeship starting from February 2025</strong> to perfect my skills.
 
-- Alongside coding, I’m passionate about reading feminist theory, watching comedies, and fostering stray cats and kittens.
+- Alongside coding, I’m passionate about reading feminist theory, watching comedies, and fostering stray cats and kittens!
 
 - How to reach me : <a href="mailto:anne.kaftal@gmail.com">anne.kaftal@gmail.com</a>
 
