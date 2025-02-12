@@ -8,7 +8,7 @@
 
 - I’m currently training at <a href="https://adatechschool.fr/">Ada Tech School</a>, an inclusive programming school which focuses on collaborative, full-stack projects.
 
-- I’m looking for <strong>an apprenticeship starting from February 2025</strong> to perfect my skills.
+- I’m looking for <strong>an apprenticeship starting from March 2025</strong> to perfect my skills.
 
 - Alongside coding, I’m passionate about reading feminist theory, watching comedies, and fostering stray cats and kittens!
 
